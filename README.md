@@ -1,4 +1,4 @@
-# Barrister Lelin & Associates — Demo 3: Art Deco
+# Barrister Lalin & Associates — Demo 3: Art Deco
 
 Live demo: https://shihab-abesh.github.io/law-firm-demo-3/
 
